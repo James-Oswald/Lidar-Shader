@@ -1,0 +1,1 @@
+These are all old outdated 3js libs so they work with the old MTLLoader library i had on hand from 2018
