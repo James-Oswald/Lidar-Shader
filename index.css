@@ -2,3 +2,9 @@
 body{
     margin: 0px;
 }
+
+canvas{
+    width: 49%;
+    display:inline-block;
+    resize: both;
+}

@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib farmhouse.mtl
+#mtllib farmhouse.mtl
 g default
 v -2.023838 8.915440 -8.054992
 v 1.971210 8.917807 -8.054984
